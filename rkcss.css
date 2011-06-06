@@ -45,25 +45,68 @@ h1 {
 	padding: 0 10px;
 	background-color: #000;
 	}
-.toptab li.current a, .toptab li.current a:hover {
-	background-color: #fff;
-	color: #000;
+.toptab li.current a {
+	background-color:#2F4F4F;
+	color:black;
 }
-	
+.toptab li.current a:hover 
+{
+	background-color: #aaa;
+	color:navy;
+}	
 .toptab li a:hover {
 	background-color: #aaa;
 	color: #fff;
 }
 
-#content {
-	float:left;
-}
+
 
 .clear {
 	clear:both;
 }
 		 
-		 
-		 
-
+	 
+#content 
+{
+	style="width:999px";
+	margin: 0 auto;
+	float:left;
+}
+#leftColumn
+{
+	background-color:#6A5ACD;
+	color:black;
+	width:330px;
+	height:500px;
+	border-style:solid;
+	border-width:1px;
+	float:left;	
+}
+#middleColumn
+{
+	background-color:#6A5ACD;
+	color:black;
+	width:330px;
+	height:500px;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+}
+#rightColumn
+{
+	background-color:#6A5ACD;
+	color:black;
+	width:328px;
+	height:500px;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+}
+.signInForm
+{
+	width:300;
+	background-color:white;
+	border:"4";
+	color:black;
+}	
 		 
