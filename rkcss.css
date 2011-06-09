@@ -1,5 +1,5 @@
 body {
-	background-color:#6A5ACD;
+	background-color:#B22222;
 	color:black;
 	font-size:20pt;
 	font-family:"Arial";
@@ -25,10 +25,10 @@ h1 {
 	}
 	
 .toptab {
-	float: left;
+	float: middle;
 	list-style-type: none;
 	width: 900px;
-	height: 40px;
+	height: 10px;
 	padding: 0;
 	}
  
@@ -78,7 +78,7 @@ h1 {
 }
 #leftColumn
 {
-	background-color:#6A5ACD;
+	background-color:#942626;
 	color:black;
 	width:330px;
 	height:680px;
@@ -88,7 +88,7 @@ h1 {
 }
 #middleColumn
 {
-	background-color:#6A5ACD;
+	background-color:#942626;
 	color:black;
 	width:330px;
 	height:680px;
@@ -98,7 +98,7 @@ h1 {
 }
 #rightColumn
 {
-	background-color:#6A5ACD;
+	background-color:#942626;
 	color:black;
 	width:328px;
 	height:680px;
