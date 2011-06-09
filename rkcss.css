@@ -7,6 +7,10 @@ body {
 	padding: 0;
 	margin: 0;
 	}
+. roster tr
+{
+	
+}
 
 .wrapper {
 	width: 1000px;
@@ -77,7 +81,7 @@ h1 {
 	background-color:#6A5ACD;
 	color:black;
 	width:330px;
-	height:500px;
+	height:680px;
 	border-style:solid;
 	border-width:1px;
 	float:left;	
@@ -87,7 +91,7 @@ h1 {
 	background-color:#6A5ACD;
 	color:black;
 	width:330px;
-	height:500px;
+	height:680px;
 	border-style:solid;
 	border-width:1px;
 	float:left;
@@ -97,7 +101,7 @@ h1 {
 	background-color:#6A5ACD;
 	color:black;
 	width:328px;
-	height:500px;
+	height:680px;
 	border-style:solid;
 	border-width:1px;
 	float:left;
